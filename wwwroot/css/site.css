@@ -1,0 +1,10 @@
+﻿.apple-pay-button {
+  display: inline-block;
+  -webkit-appearance: -apple-pay-button;
+  -apple-pay-button-type: checkout; /* Use any supported button type. */
+  cursor: pointer;
+}
+
+.apple-pay-button-black {
+  -apple-pay-button-style: black;
+}
